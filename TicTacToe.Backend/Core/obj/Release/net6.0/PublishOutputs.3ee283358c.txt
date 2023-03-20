@@ -1,0 +1,10 @@
+D:\Projects\TicTacToe\TicTacToe.Backend\Core\bin\Release\net6.0\publish\Core.dll
+D:\Projects\TicTacToe\TicTacToe.Backend\Core\bin\Release\net6.0\publish\Core.deps.json
+D:\Projects\TicTacToe\TicTacToe.Backend\Core\bin\Release\net6.0\publish\Core.pdb
+D:\Projects\TicTacToe\TicTacToe.Backend\Core\bin\Release\net6.0\publish\AutoMapper.dll
+D:\Projects\TicTacToe\TicTacToe.Backend\Core\bin\Release\net6.0\publish\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects\TicTacToe\TicTacToe.Backend\Core\bin\Release\net6.0\publish\Microsoft.Extensions.Primitives.dll
+D:\Projects\TicTacToe\TicTacToe.Backend\Core\bin\Release\net6.0\publish\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\TicTacToe\TicTacToe.Backend\Core\bin\Release\net6.0\publish\Microsoft.IdentityModel.Logging.dll
+D:\Projects\TicTacToe\TicTacToe.Backend\Core\bin\Release\net6.0\publish\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\TicTacToe\TicTacToe.Backend\Core\bin\Release\net6.0\publish\System.IdentityModel.Tokens.Jwt.dll
