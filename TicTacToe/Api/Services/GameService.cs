@@ -1,4 +1,5 @@
-﻿using Core;
+﻿using System;
+using Core;
 using Core.Exceptions.GameException;
 using Core.Exceptions.UserExceptions;
 using Core.Models;
@@ -39,7 +40,7 @@ namespace Api.Services
             {
                 IdFirstPlayer = user.Id,
                 IdSecondPlayer = friend.Id,
-                Field = "000000000",
+                Field = new int[9],
                 Steps = 9,
                 Status = Constants.GAME_STATUS_PENDING,
             };
@@ -90,11 +91,9 @@ namespace Api.Services
             return game;
         }
 
-        private void SetSign(int numCell, ref Game game, char sign)
+        private void SetSign(int numCell, ref Game game, int sign)
         {
-            char[] cells = game.Field.ToCharArray();
-            cells[numCell] = sign;
-            game.Field = string.Concat(cells);
+            game.Field[numCell] = sign;
             game.Steps--;
         }
     }

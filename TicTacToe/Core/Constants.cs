@@ -2,9 +2,9 @@
 {
     public class Constants
     {
-        public const char DEFAULT_VALUE = '0';
-        public const char CROSS = '1';
-        public const char ZERO = '2';
+        public const int DEFAULT_VALUE = 0;
+        public const int CROSS = 1;
+        public const int ZERO = 2;
 
         public const int MIN_INPUT_CELL_VALUE = 0;
         public const int MAX_INPUT_CELL_VALUE = 8;

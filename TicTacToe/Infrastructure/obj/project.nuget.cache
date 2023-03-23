@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/R2f0m5Yc9rsjJMMu65XEHnpdgOyU+6PjcdaGyoIWNMxd58S/xfb7H0yp+2eJ8yyFZMTnjzxIR0jZbhP4c2ziA==",
+  "dgSpecHash": "CNqfgm4cNCoi6K3Sn6Z2pu/1eEzhCEcJUvoTyUZXdbtwxn8Y+fdoo28A+smpeGMOGVrA9t5w9plRrD6Gub190A==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\TicTacToe\\TicTacToe.Backend\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "D:\\Projects\\TicTacToe\\TicTacToe\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vllog\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\vllog\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

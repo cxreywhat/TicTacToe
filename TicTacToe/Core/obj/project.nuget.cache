@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K+7mOZnF+71ROD1eNE/o6nmVziqmV1F/5bhvjBeAvTOD8qxHyU32fa8MISlbWCgxhabJLN5r8jGGPHjwbiwKsA==",
+  "dgSpecHash": "4AzNUmIkOxNkirlSevxzH5HH67evb1fMtRhw21aF3AraFQfnD7m4utQ8gnLGrB7DsPQnhiEN3TyiNVigAvBhUQ==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\TicTacToe\\TicTacToe.Backend\\Core\\Core.csproj",
+  "projectFilePath": "D:\\Projects\\TicTacToe\\TicTacToe\\Core\\Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vllog\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\vllog\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

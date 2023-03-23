@@ -30,9 +30,9 @@ namespace Infrastructure.Migrations
 
                     NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
 
-                    b.Property<string>("Field")
+                    b.Property<int[]>("Field")
                         .IsRequired()
-                        .HasColumnType("text");
+                        .HasColumnType("integer[]");
 
                     b.Property<int>("IdFirstPlayer")
                         .HasColumnType("integer");

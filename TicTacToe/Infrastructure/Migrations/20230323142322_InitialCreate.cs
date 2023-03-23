@@ -19,7 +19,7 @@ namespace Infrastructure.Migrations
                     IdFirstPlayer = table.Column<int>(type: "integer", nullable: false),
                     IdSecondPlayer = table.Column<int>(type: "integer", nullable: false),
                     Steps = table.Column<int>(type: "integer", nullable: false),
-                    Field = table.Column<string>(type: "text", nullable: false),
+                    Field = table.Column<int[]>(type: "integer[]", nullable: false),
                     Winner = table.Column<string>(type: "text", nullable: false),
                     Status = table.Column<string>(type: "text", nullable: false)
                 },

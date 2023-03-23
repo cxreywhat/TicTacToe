@@ -6821,11 +6821,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\TicTacToe\\TicTacToe.Backend\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "D:\\Projects\\TicTacToe\\TicTacToe\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "D:\\Projects\\TicTacToe\\TicTacToe.Backend\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "D:\\Projects\\TicTacToe\\TicTacToe\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\vllog\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\TicTacToe\\TicTacToe.Backend\\Infrastructure\\obj\\",
+      "outputPath": "D:\\Projects\\TicTacToe\\TicTacToe\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6846,8 +6846,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Projects\\TicTacToe\\TicTacToe.Backend\\Core\\Core.csproj": {
-              "projectPath": "D:\\Projects\\TicTacToe\\TicTacToe.Backend\\Core\\Core.csproj"
+            "D:\\Projects\\TicTacToe\\TicTacToe\\Core\\Core.csproj": {
+              "projectPath": "D:\\Projects\\TicTacToe\\TicTacToe\\Core\\Core.csproj"
             }
           }
         }

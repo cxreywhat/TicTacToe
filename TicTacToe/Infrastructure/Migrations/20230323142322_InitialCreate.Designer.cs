@@ -12,7 +12,7 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace Infrastructure.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20230319152205_InitialCreate")]
+    [Migration("20230323142322_InitialCreate")]
     partial class InitialCreate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -32,9 +32,9 @@ namespace Infrastructure.Migrations
 
                     NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
 
-                    b.Property<string>("Field")
+                    b.Property<int[]>("Field")
                         .IsRequired()
-                        .HasColumnType("text");
+                        .HasColumnType("integer[]");
 
                     b.Property<int>("IdFirstPlayer")
                         .HasColumnType("integer");
